@@ -5,12 +5,12 @@
 	},
 	"client":{
 		"cp_id":"5190090000025507912",
-		"product_id":"736430079244533297",
-		"client_id":"393577410492105728",
-		"client_secret":"2DE539D2FDC93349262EA9FFCAF19AB58E222D43804F98AAB9F894F705A51B5B",
-		"app_id":"102466219",
+		"product_id":"....",
+		"client_id":"....",
+		"client_secret":"....",
+		"app_id":"....",
 		"package_name":"com.sample.objectdetection",
-		"api_key":"CgB6e3x9NKbxnLQsTISswSNFo6m0mwNoSPrztDbF+O7AjpNoqeTg/IojswMW8OKbi2xiWRj5EtGk05twdYlx+FIt"
+		"api_key":"...."
 	},
 	"service":{
 		"analytics":{
